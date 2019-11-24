@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title> 米仓</title>
+  <title> 杰西满屋</title>
   
   <subtitle>记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://rice333.github.io/"/>
+  <link href="https://jiessieyangjie.github.io/"/>
   <updated>2019-11-23T01:34:06.481Z</updated>
-  <id>https://rice333.github.io/</id>
+  <id>https://jiessieyangjie.github.io/</id>
   
   <author>
-    <name>大米</name>
+    <name>杰西</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>二零一七年终总结</title>
-    <link href="https://rice333.github.io/2018/01/22/2017-conclusion/"/>
-    <id>https://rice333.github.io/2018/01/22/2017-conclusion/</id>
+    <link href="https://jiessieyangjie.github.io/2018/01/22/2017-conclusion/"/>
+    <id>https://jiessieyangjie.github.io/2018/01/22/2017-conclusion/</id>
     <published>2018-01-22T04:32:09.000Z</published>
     <updated>2019-11-23T01:34:06.481Z</updated>
     
@@ -35,10 +35,36 @@
     
     </summary>
     
-      <category term="随笔" scheme="https://rice333.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://jiessieyangjie.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="https://rice333.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://jiessieyangjie.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线性模型公式推导</title>
+    <link href="https://jiessieyangjie.github.io/2018/01/22/xian-xing-hui-gui-mo-xing-xi-gua/"/>
+    <id>https://jiessieyangjie.github.io/2018/01/22/xian-xing-hui-gui-mo-xing-xi-gua/</id>
+    <published>2018-01-22T04:32:09.000Z</published>
+    <updated>2019-11-23T02:15:18.625Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;线性回归公式推导&quot;&gt;&lt;a href=&quot;#线性回归公式推导&quot; class=&quot;headerlink&quot; title=&quot;线性回归公式推导&quot;&gt;&lt;/a&gt;线性回归公式推导&lt;/h1&gt;&lt;h2 id=&quot;一元线性回归公式推导&quot;&gt;&lt;a href=&quot;#一元线性回归公式推导&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://jiessieyangjie.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://jiessieyangjie.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
