@@ -485,7 +485,7 @@
                 
                 <div class="info-break-policy">
                     <i class="fa fa-clock-o fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    17 分
+                    18 分
                 </div>
                 
                 
@@ -643,7 +643,25 @@
 <script type="math/tex; mode=display">\begin{eqnarray} lnL(w,b)
 &=&\sum\limits_{i=1}^m\left[y_iln(e^{\hat w^T\hat x_i})+ln\left(\frac{1}{1+e^{\hat w^T\hat x_i}}\right)\right]\\
 &=&\sum\limits_{i=1}^m\left(y_i\hat w^T\hat x_i-ln(1+e^{\hat w^T\hat x_i})\right)
-\end{eqnarray}</script>
+\end{eqnarray}</script><script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
             </div>
             <hr />
 
@@ -1378,7 +1396,7 @@
 
             
             &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-            <span class="white-color">4.4k</span>
+            <span class="white-color">4.6k</span>
             
 
             <br>

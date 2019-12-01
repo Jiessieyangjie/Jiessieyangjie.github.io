@@ -25,6 +25,18 @@
     
     <summary type="html">
     
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
     </summary>
     
     
@@ -38,6 +50,18 @@
     <updated>2019-11-24T08:20:47.130Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
     
     </summary>
     
